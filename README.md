@@ -9,13 +9,13 @@
 </p>
   
 <p align="center" style="margin:2rem">
-  <img src="assets/screenshot.png" width="720"/>
+  <img src="assets/screenshot.png" width="960" style="border-radius:.625rem"/>
 </p>
 
 ## Usage
 
 1. Open Zed.
-2. Open the command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and enter **zed: extensions**.
+2. Open the command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and enter **zed: extensions** or select **Zed > Extensions** from the menubar.
 3. Search for the **Elderberry** extension and install.
 4. Enter **theme selector: toggle** in the command palette and select the **Elderberry** theme in the dropdown.
 
